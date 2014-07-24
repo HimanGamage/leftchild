@@ -23,9 +23,9 @@
     </dependency>
 
     <dependency>
-      <groupId>com.wso2.jenkins</groupId>
-      <artifactId>mainProject</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <groupId>com.wso2.jenkinsZ</groupId>
+      <artifactId>mainProjectZ</artifactId>
+      <version>1.0-SNAPSHOTZ</version>
     </dependency>
   </dependencies>
 </project>
