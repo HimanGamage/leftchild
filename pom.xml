@@ -23,7 +23,7 @@
     </dependency>
 
     <dependency>
-      <groupId>com.wso2.jenkins.sfs</groupId>
+      <groupId>com.wso2.jenkins</groupId>
       <artifactId>mainProject</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
